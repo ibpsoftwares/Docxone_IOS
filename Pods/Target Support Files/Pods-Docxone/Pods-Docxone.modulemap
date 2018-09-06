@@ -1,0 +1,6 @@
+framework module Pods_Docxone {
+  umbrella header "Pods-Docxone-umbrella.h"
+
+  export *
+  module * { export * }
+}
